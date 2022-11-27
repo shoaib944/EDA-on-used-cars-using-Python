@@ -8,7 +8,7 @@ There are certains questions which revolve around before purchasing used cars :
 
 1.What kind of SELLERs we have the most?
 
->> Most of the sellers are private (99%) and commercial seller are very least
+A:Most of the sellers are private (99%) and commercial seller are very least
 
 2.How does the price of a car vary with the power it can deliver?
 
