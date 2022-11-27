@@ -4,7 +4,7 @@ This Project involves descriptives analysis and derive insights from the used ca
 
 The Data contains information about the seller and the cars till the year 2018.
 
-There are certains questions which revolve around before purchasing used cars :
+There are certains questions which managers need to understand the market :
 
 1.What kind of SELLERs we have the most?
 
